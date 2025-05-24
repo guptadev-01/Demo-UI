@@ -1,0 +1,18 @@
+.nav-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 32px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: 1px solid #727D73;
+    background-color: #F2F2F2;
+}
+.grid{
+    display: flex;
+    gap: 5px;
+}
+.grid>p{
+    margin: 0;
+}

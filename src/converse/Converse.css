@@ -1,0 +1,42 @@
+.converse{
+    padding: 10px;
+}
+.p-1{
+    display: flex;
+    align-items: end;
+    gap: 15px;
+}
+.name{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+.chat{
+    width: 70%;
+    text-wrap: wrap;
+    padding: 12px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.p-2{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: end;
+    gap: 15px;
+}
+.name-2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+.chat-2{
+    width: 70%;
+    text-wrap: wrap;
+    padding: 12px;
+    background-color: grey;
+    border-radius: 10px;
+}

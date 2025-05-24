@@ -1,0 +1,21 @@
+.talk{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: 5px solid #F2F2F2;
+    padding: 5px;
+    border-radius: 7px;
+}
+#select{
+    width: fit-content;
+    border: 1px solid #F2F2F2;
+    padding: 2px;
+}
+input{
+    height: 40px;
+    border: none;
+}
+img{
+    width: 20px;
+    margin-right: 5px;
+}

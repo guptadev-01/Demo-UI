@@ -1,0 +1,22 @@
+
+navbar{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #F2F2F2;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.dot{
+    background: #F2F2F2;
+    cursor: pointer;
+}
+.close{
+    background: #F2F2F2;
+    cursor: pointer;
+    width: 25px;
+}
